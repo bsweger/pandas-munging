@@ -1,0 +1,6 @@
+name: pandas-munging
+dependencies:
+- python=3.5
+- pandas
+- jupyter
+
