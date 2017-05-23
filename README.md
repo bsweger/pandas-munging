@@ -17,7 +17,7 @@ To run the code samples in the Jupyer notebook interactively:
 1. Install the [miniconda Python package manager](http://conda.pydata.org/miniconda.html)
 
 2. From a terminal, clone this project repository to your local machine:
-        git@github.com:bsweger/pandas-munging.git
+        `git@github.com:bsweger/pandas-munging.git`
 
 3. If you don't have a GitHub account and want to get a read-only version of the code, use this command instead:
         git://github.com/bsweger/pandas-munging.git
